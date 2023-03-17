@@ -6,6 +6,7 @@
     <AssemblyName>dotnet-core-helloWorld</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>dotnet-core-helloWorld</PackageId>
+    <IsPackable>true</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
